@@ -1,0 +1,46 @@
+
+#navbarNavAltMarkup {
+    margin-left: 300px;
+}
+
+.logo {
+    margin-left: 30px;
+}
+
+.title-main {
+    margin-top: 50px;
+    margin-left: 90px;
+    color: white;
+}
+
+.child-main {
+    margin-left: 90px;
+    color: white;
+}
+
+.jumbotron {
+    height: 450px;
+}
+
+.menu-main {
+    height: 200px;
+    width: 70%;
+    border: 1px solid rgba(197, 197, 197, 1);
+    background-color: white;
+    border-radius: 30px;
+    position: absolute;
+    top: 470px;
+    left: 190px;
+
+}
+
+.menu-main .row .col-sm {
+    padding: 30px;
+}
+
+.menu-main .row .col-sm .wadah{
+    height: 50px;
+    background-color: rgba(233, 233, 233, 1);
+    padding: 10px;
+    border-radius: 5px;
+}
