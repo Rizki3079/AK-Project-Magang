@@ -38,6 +38,7 @@
     background-color: white;
     border-radius: 30px;
     position: absolute;
+    display: block;
     top: 470px;
     left: 182px;
 }
