@@ -24,7 +24,7 @@
 <body>
 
     @include('partials.navbar')
-    
+
 
     {{-- jumbotron --}}
     <div class="jumbotron jumbotron-fluid"
