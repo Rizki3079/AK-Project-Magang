@@ -22,4 +22,6 @@ Route::get('/', function () {
 
 Route::get('/tampilan-awal', function () {
     return view('landing-page/tampilan-awal');
+});route::get('/login', function () {
+    return view('auth/login');
 });
