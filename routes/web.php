@@ -21,9 +21,13 @@ Route::get('/', function () {
 });
 
 Route::get('/tampilan-awal', function () {
-    return view('landing-page/tampilan-awal');
+    return view('landing-page/tampilan-awal', [
+        'title' => 'Tampilan Awal'
+    ]);
 });
 
 Route::get('/talent-hunter', function () {
-    return view('landing-page/talent-hunter');
+    return view('landing-page/talent-hunter', [
+        'title' => 'Talent Hunter'
+    ]);
 });
