@@ -47,7 +47,7 @@
                         <li><h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio adipisci maiores minima laborum laudantium ollam, perferendis amet earum similique quasi.</h5></li>
                         <li><h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio adipisci maiores minima laborum laudantium ullam, perferendis amet earum similique quasi.</h5></li>
                         <li><h5>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio adipisci maiores minima laborum laudantium ullam, perferendis amet earum similique quasi.</h5></li>
-                        <li><h5> Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio adipisci maiores minima laborum laudantium ullam, perferendis amet earum similique quasi.</h5></li>
+                        <li><h5> Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio adipisci maiores minima laborum laudantium ullam, perferendis amet earum similique</h5></li>
                     </ol>
                     
             </div>
