@@ -1,0 +1,96 @@
+
+.font-underline {
+    text-decoration: underline solid rgba(242, 100, 25, 1) 3px;
+}
+
+#navbarNavAltMarkup {
+    margin-left: 300px;
+}
+
+.logo {
+    margin-left: 30px;
+}
+
+.title-main {
+    margin-top: 50px;
+    margin-left: 90px;
+    color: white;
+}
+
+.child-main {
+    margin-left: 90px;
+    color: white;
+}
+
+.jumbotron {
+    height: 450px;
+}
+
+.jumbotron button {
+    margin-left: 140px;
+}
+
+.konten {
+    /* border: 1px solid black; */
+    width: 90%;
+    margin: auto;
+    margin-bottom: 200px;
+}
+
+.konten h1, .konten h5 {
+    color: rgba(47, 72, 88, 1);
+    margin-bottom: 50px;
+}
+
+.konten .row img {
+    width: 500px;
+}
+
+#title-benefit {
+    color: rgba(242, 100, 25, 1);
+    text-align: center;
+}
+
+
+/* footer */
+footer {
+    margin-top: 50px;
+    height: 300px;
+    background-color: rgba(242, 100, 25, 1);
+}
+
+footer img {
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
+
+.copyright {
+    margin-top: 50px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 10px;
+}
+footer .social-media img {
+    width: 25px;
+    
+}
+
+.wadah-icon-benefit {
+    /* border: 1px solid black; */
+    width: 95%;
+    text-align: center;
+    margin-top: 100px;
+    color: rgba(242, 100, 25, 1);
+}

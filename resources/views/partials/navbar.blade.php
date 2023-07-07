@@ -13,8 +13,8 @@
                 <a class="nav-link" href="#" style="color: rgba(242, 100, 25, 1);">Tips Kerja</a>
                 <a class="nav-link" href="#" style="color: rgba(242, 100, 25, 1);">Daftar Kandidat</a>
                 <a class="nav-link" href="#" style="color: rgba(242, 100, 25, 1);">Pasang Lowongan</a>
-                <button type="button" class="btn btn-primary"
-                    style="background-color: rgba(242, 100, 25, 1);">Masuk</button>
+                <button type="button" class="btn "
+                    style="background-color: rgba(242, 100, 25, 1); color: white;">Masuk</button>
             </div>
         </div>
     </div>

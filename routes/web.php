@@ -23,3 +23,7 @@ Route::get('/', function () {
 Route::get('/tampilan-awal', function () {
     return view('landing-page/tampilan-awal');
 });
+
+Route::get('/talent-hunter', function () {
+    return view('landing-page/talent-hunter');
+});

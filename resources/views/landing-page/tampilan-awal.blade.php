@@ -22,7 +22,7 @@
 </head>
 
 <body>
-
+    {{-- navbar --}}
     @include('partials.navbar')
     
 
