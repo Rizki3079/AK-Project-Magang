@@ -7,7 +7,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-link active font-underline" aria-current="page" href="#"
+                <a class="nav-link active font-underline" aria-current="page" href="/tampilan-awal"
                     style="color: rgba(242, 100, 25, 1);">Beranda</a>
                 <a class="nav-link" href="#" style="color: rgba(242, 100, 25, 1);">Talent Hunter</a>
                 <a class="nav-link" href="/tipsKerja" style="color: rgba(242, 100, 25, 1);">Tips Kerja</a>

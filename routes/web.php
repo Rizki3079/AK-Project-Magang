@@ -25,5 +25,7 @@ Route::get('/tampilan-awal', function () {
 });
 
 Route::get('/tipsKerja', function () {
-    return view('landing-page/tipsKerja');
+    return view('landing-page/tipsKerja', [
+        "title" => "Tips Kerja"
+    ]);
 });
