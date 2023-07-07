@@ -1,0 +1,162 @@
+
+.font-underline {
+    text-decoration: underline solid rgba(242, 100, 25, 1) 3px;
+}
+
+#navbarNavAltMarkup {
+    margin-left: 300px;
+}
+
+.logo {
+    margin-left: 30px;
+}
+
+.title-main {
+    margin-top: 50px;
+    margin-left: 90px;
+    color: white;
+}
+
+.child-main {
+    margin-left: 90px;
+    color: white;
+}
+
+.jumbotron {
+    height: 450px;
+}
+
+.content {
+    /* border: 2px solid black; */
+    width: 75%;
+}
+
+.menu-main {
+    height: 200px;
+    width: 70%;
+    border: 1px solid rgba(197, 197, 197, 1);
+    background-color: white;
+    border-radius: 30px;
+    position: absolute;
+    top: 470px;
+    left: 182px;
+}
+
+.menu-main .row .col-sm {
+    padding: 30px;
+}
+
+.menu-main .row .col-sm .wadah{
+    height: 50px;
+    background-color: rgba(233, 233, 233, 1);
+    padding: 10px;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.button-search {
+    border-radius: 100px;
+    margin: auto;
+    display: block;
+    color: white;
+    width: 110px;
+    margin-top: 30px;
+}
+
+
+
+.rekomendasi .wadah {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    box-shadow: 0px 8px 4px 3px rgba(0, 0, 0, 0.25);
+    margin-top: 30px;
+}
+
+.rekomendasi .wadah h5{
+    text-align: center;
+}
+
+.icon {
+    width: 40px;
+    /* border: 1px solid black; */
+    margin-top: 170px;
+}
+
+.rekomendasi .wadah img{
+    width: 75px;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.rekomendasi .emblem-rekomendasi {
+    background-color: rgba(246, 174, 45, 1);
+    margin-right: 0;
+    width: 120px;
+    position: relative;
+    right: -10px;
+    top: -10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: black;
+}
+
+
+.konten-deskripsi hr {
+   margin-top: 2px;
+   background-color: black;
+}
+
+/* .lowongan-terbaru .post {
+    border: 1px solid black;
+} */
+
+.lowongan-terbaru .post {
+    box-shadow: 0px 4px 4px 3px rgba(0, 0, 0, 0.25);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.gif-loading {
+    width: 50px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 50px;
+    height: 300px;
+    background-color: rgba(242, 100, 25, 1);
+}
+
+footer img {
+    display: block;
+    margin: auto;
+    width: 300px;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
+
+.copyright {
+    margin-top: 50px;
+}
+
+.social-media {
+    text-align: center;
+}
+
+footer ul li {
+    display: inline-block;
+    margin: 10px;
+}
+footer .social-media img {
+    width: 25px;
+    
+}

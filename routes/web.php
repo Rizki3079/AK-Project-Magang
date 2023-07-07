@@ -13,6 +13,19 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 Route::get('/', function () {
-    return view('welcome');
+    return view('dashboard');
+});
+
+Route::get('/tampilan-awal', function () {
+    return view('landing-page/tampilan-awal');
+});
+
+Route::get('/tipsKerja', function () {
+    return view('landing-page/tipsKerja', [
+        "title" => "Tips Kerja"
+    ]);
 });
